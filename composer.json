@@ -1,0 +1,10 @@
+{
+    "name": "pure-intento/infinity-category",
+    "description": "This package create structure for infinity categories",
+    "autoload": {
+        "psr-4": {
+            "PureIntento\\InfinityCategory\\": "src/"
+        }
+    },
+    "require": {}
+}
