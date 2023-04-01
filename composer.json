@@ -6,5 +6,7 @@
             "PureIntento\\InfinityCategory\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=7.4.0"
+    }
 }
